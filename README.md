@@ -1,6 +1,9 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhenrisouza&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhenrisouza&layout=compact&theme=dracula)
+<div align="center">
+  <a href="https://github.com/Gustavotp443">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhenrisouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhenrisouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div>
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
